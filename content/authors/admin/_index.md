@@ -25,12 +25,7 @@ organizations:
     url: https://www.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Economist with a solid background in economic research, public economics,
-programming, and data science. Working for the Federal Government of Brazil, I
-participated in projects that resulted in legislative and economic policy change. As
-a Ph.D. candidate at Penn State, I used my strong programming skills to develop
-dynamic structural models and researched the effects of aging demographics on
-the national economies worldwide.
+bio: Economist
 
 # Interests to show in About widget
 interests:
@@ -90,5 +85,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Economist with a solid background in economic research, public economics, programming, and data science. Working for the Federal Government of Brazil, I participated in projects that resulted in legislative and economic policy change. As a Ph.D. candidate at Penn State, I used my strong programming skills to develop dynamic structural models and researched the effects of aging demographics on the national economies worldwide.
 {style="text-align: justify;"}
