@@ -25,12 +25,7 @@ organizations:
     url: https://www.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Economist with a solid background in economic research, public economics,
-programming, and data science. Working for the Federal Government of Brazil, I
-participated in projects that resulted in legislative and economic policy change. As
-a Ph.D. candidate at Penn State, I used my strong programming skills to develop
-dynamic structural models and researched the effects of aging demographics on
-the national economies worldwide.
+bio: Economist with a solid background in economic research, public economics, programming, and data science. Working for the Federal Government of Brazil, I participated in projects that resulted in legislative and economic policy change. As a Ph.D. candidate at Penn State, I used my strong programming skills to develop dynamic structural models and researched the effects of aging demographics on the national economies worldwide.
 
 # Interests to show in About widget
 interests:
