@@ -61,8 +61,7 @@ sections:
           location: Brazil
           date_start: '2014-07-07'
           date_end: ''
-          description: |2-
-              My main role is to analyze the fiscal policy of the Federal Government of Brazil. During my time at the Treasury, I supported the development of a model that predicts the expenses of the Brazilian Pension System under different rules, which influenced the final Pension System Reform enacted in 2019 by the Brazilian Congress, and created an economic model that uses historical data and current conditions to predict the expected daily cash flow of the Brazilian federal government in a four-month window.
+          description: My main role is to analyze the fiscal policy of the Federal Government of Brazil. During my time at the Treasury, I supported the development of a model that predicts the expenses of the Brazilian Pension System under different rules, which influenced the final Pension System Reform enacted in 2019 by the Brazilian Congress, and created an economic model that uses historical data and current conditions to predict the expected daily cash flow of the Brazilian federal government in a four-month window.
         - title: Research Assistant
           company: Penn State University
           company_url: 'https://www.psu.edu/'
