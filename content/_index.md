@@ -43,7 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
-  - id: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -65,7 +65,7 @@ sections:
         - title: Research Assistant
           company: Penn State University
           company_url: 'https://www.psu.edu/'
-          location: Pennsylvannia
+          location: Pennsylvania
           date_start: '2018-08-01'
           date_end: ''
           description: Implement and test research models. Using micro data of developing countries, I created a dynamic structural model in Julia to calculate the probability of children’s enrollment in school given a financial incentive.
