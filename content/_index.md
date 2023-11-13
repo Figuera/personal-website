@@ -65,7 +65,6 @@ sections:
         - title: Federal Financial Auditor
           company: National Treasury of Brazil
           company_url: 'https://www.gov.br/tesouronacional/en?set_language=en'
-          company_logo: org-gc
           location: Brazil
           date_start: '2014-07-07'
           date_end: ''
@@ -75,7 +74,6 @@ sections:
         - title: Research Assistant
           company: Penn State University
           company_url: 'https://www.psu.edu/'
-          company_logo: org-x
           location: Pennsylvannia
           date_start: '2018-08-01'
           date_end: ''
@@ -83,14 +81,13 @@ sections:
         - title: Software Developer
           company: Veros IT
           company_url: 'https://www.linkedin.com/company/veros-it---information-technology/about/'
-          company_logo: org-x
           location: Brazil
           date_start: '2007-10-01'
           date_end: '2008-03-01'
           description: My first job was at 17. I started as a Web Designer but quickly got a position as a Software Developer, supporting the development of administrative software for the Brazilian Air Force. This early position ignited my interest in programming, a skill I nourished for the rest of my life.
     design:
       columns: '2'
-  - block: collection
+  - block: publications
     content:
       title: Research
       text: |-
