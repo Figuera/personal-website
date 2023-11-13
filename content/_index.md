@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -69,8 +61,9 @@ sections:
           date_start: '2014-07-07'
           date_end: ''
           description: |2-
-              * As part of the Economic Policies Secretariat, I supported the development of a model to predict the expenses of the Brazilian Pension System under different rules. This model influenced the final Pension System Reform enacted in 2019 by the Brazilian Congress.
-              * I created an economic model based on historical data and current conditions to predict the expected daily cash flow of the Brazilian federal government during the next four months.
+              My main role is to analyze the fiscal policy of the Federal Government of Brazil. During my time at the Treasury:
+                * I supported the development of a model that predicts the expenses of the Brazilian Pension System under different rules, which influenced the final Pension System Reform enacted in 2019 by the Brazilian Congress.
+                * I created an economic model that uses historical data and current conditions to predict the expected daily cash flow of the Brazilian federal government in a four-month window.
         - title: Research Assistant
           company: Penn State University
           company_url: 'https://www.psu.edu/'
@@ -113,4 +106,12 @@ sections:
         </ol>
     design:
       columns: '2'
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
 ---
