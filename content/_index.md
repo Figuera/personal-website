@@ -69,7 +69,7 @@ sections:
           location: Brazil
           date_start: '2014-07-07'
           date_end: ''
-          description: |2-
+          description: |-
           * As part of the Economic Policies Secretariat, I supported the development of a model to predict the expenses of the Brazilian Pension System under different rules. This model influenced the final Pension System Reform enacted in 2019 by the Brazilian Congress.
           * I created an economic model based on historical data and current conditions to predict the expected daily cash flow of the Brazilian federal government during the next four months.
 
