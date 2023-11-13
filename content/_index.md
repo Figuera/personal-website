@@ -105,6 +105,7 @@ sections:
     design:
       columns: '2'
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
