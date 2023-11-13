@@ -69,10 +69,9 @@ sections:
           location: Brazil
           date_start: '2014-07-07'
           date_end: ''
-          description: |-
-          * As part of the Economic Policies Secretariat, I supported the development of a model to predict the expenses of the Brazilian Pension System under different rules. This model influenced the final Pension System Reform enacted in 2019 by the Brazilian Congress.
-          * I created an economic model based on historical data and current conditions to predict the expected daily cash flow of the Brazilian federal government during the next four months.
-
+          description: |2-
+              * As part of the Economic Policies Secretariat, I supported the development of a model to predict the expenses of the Brazilian Pension System under different rules. This model influenced the final Pension System Reform enacted in 2019 by the Brazilian Congress.
+              * I created an economic model based on historical data and current conditions to predict the expected daily cash flow of the Brazilian federal government during the next four months.
         - title: Research Assistant
           company: Penn State University
           company_url: 'https://www.psu.edu/'
@@ -81,7 +80,6 @@ sections:
           date_start: '2018-08-01'
           date_end: ''
           description: Implement and test research models. Using micro data of developing countries, I created a dynamic structural model in Julia to calculate the probability of children’s enrollment in school given a financial incentive.
-
         - title: Software Developer
           company: Veros IT
           company_url: 'https://www.linkedin.com/company/veros-it---information-technology/about/'
