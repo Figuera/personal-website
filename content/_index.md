@@ -87,7 +87,8 @@ sections:
           description: My first job was at 17. I started as a Web Designer but quickly got a position as a Software Developer, supporting the development of administrative software for the Brazilian Air Force. This early position ignited my interest in programming, a skill I nourished for the rest of my life.
     design:
       columns: '2'
-  - block: publications
+  - block: portfolio
+    id: projects
     content:
       title: Research
       text: |-
